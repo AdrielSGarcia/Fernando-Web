@@ -1,0 +1,115 @@
+header{
+    background-color: #95ADA2;
+}
+
+.section-title{
+    background-color: #95ADA2;
+    border-radius: 2vh;
+    border: solid 0.5px #669980;
+}
+
+header .fix-nav li a{
+    color: #23352c;
+    transition: 0.7s;
+}
+
+header .fix-nav li{
+    transition: 0.7s;
+}
+
+header .fix-nav li:hover{
+    background-color:rgba(37, 74, 75, 0.8);
+    transition: 0.7s;
+    border-radius: 10vw;
+}
+
+main section .justify-margin a{
+    transition: 0.7s;
+    background-color: rgba(175, 180, 180, 0.5);
+    border: solid 0.5px rgba(148, 151, 151, 0.5);
+}
+
+main section .justify-margin a:hover{
+    font-size: large;
+    transition: 0.7s;
+    background-color: rgba(37, 74, 75, 0.8);
+    border: solid 0.5px rgb(144, 184, 184);
+    color: #9DF2F5;
+}
+
+header .fix-nav li a:hover{
+    color: #9DF2F5;
+    transition: 0.7s;
+    font-size: large;
+}
+
+main{
+    background-color: #E4DDD7;
+}
+
+main section #box-color{
+    background: #95ADA2;
+    border-radius: 5vh;
+    place-content: center;
+    margin-top: 2vh;
+}
+
+main section #box-margin .justify-margin{
+    margin-top: -6vh;
+}
+
+main section{
+    margin: 2vw;
+    background-color: #E4DDD7;
+}
+
+main section #box-color img {
+    max-width:25vw;
+    max-height:15vh;
+    width: auto;
+    height: auto;
+    align-self: center;
+    margin-left: 6vw;
+}
+
+main #project .section-title {
+    text-align: center;
+    color: #151f1a;
+}
+
+main .section-title #download{
+    text-align: center;
+    color: #151f1a;
+}
+
+main .section-description pre{
+    text-align: center;
+}
+
+main .section-description pre code{
+    text-decoration: underline;
+}
+
+main #Features{
+    margin: 2vw;
+    color: #151f1a;
+}
+
+main #Features .section-title{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: #E4DDD7.
+}
+
+
+body{
+    background-color: #E4DDD7;
+}
+
+footer .location{
+    color: rgb(46, 49, 34);
+    text-decoration:solid underline;
+}
